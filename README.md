@@ -46,8 +46,8 @@ Bu proje, AWS üzerinde Flask tabanlı bir Python uygulamasını dağıtmayı am
 apt update -y
 apt install git python3-pip python3-flask -y
 cd /home/ubuntu
-git clone https://github.com/your_github_repo/flask_app.git
-cd flask_app
+git clone https://github.com/gaukharshegirova/Project-Hesap-makinesi.git
+cd Project-Hesap-makinesi
 python3 app.py
 ```
 
